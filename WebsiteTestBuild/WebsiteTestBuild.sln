@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebsiteTestBuild", "WebsiteTestBuild\WebsiteTestBuild.csproj", "{C8BB6A13-5C57-4076-BA5D-466D11A3F107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8BB6A13-5C57-4076-BA5D-466D11A3F107}.Debug|x86.ActiveCfg = Debug|x86
+		{C8BB6A13-5C57-4076-BA5D-466D11A3F107}.Debug|x86.Build.0 = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56DE98B3-D25C-430A-A3F6-E43E850F4B12}
+	EndGlobalSection
+EndGlobal
